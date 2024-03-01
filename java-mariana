@@ -1,0 +1,33 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const bookForm = document.getElementById('bookForm');
+
+    bookForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+
+        const title = document.getElementById('bookTitle').value;
+        const author = document.getElementById('bookAuthor').value;
+        const publisher = document.getElementById('bookPublisher').value;
+        const year = document.getElementById('bookYear').value;
+        const description = document.getElementById('bookDescription').value;
+
+        const bookData = {
+            title,
+            author,
+            publisher,
+            year,
+            description
+        };
+
+        // Enviar dados para o servidor para salvar no CSV
+        saveBookData(bookData);
+
+        // Limpar formulário após o envio
+        bookForm.reset();
+    });
+
+    function saveBookData(bookData) {
+        // Enviar dados para o servidor para salvar no CSV (pode ser feito com AJAX)
+        // Aqui você faria uma requisição AJAX para o servidor para salvar os dados no CSV
+        console.log('Dados do Livro:', bookData);
+    }
+});
