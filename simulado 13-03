@@ -1,0 +1,44 @@
+Parte I: Questões Abertas
+
+01-   O Desenvolvimento Baseado em Componentes (DBC) é a prática de construir software combinando componentes de software pré-existentes. Difere de outras abordagens ao enfatizar a reutilização de componentes.
+
+02- O reuso de componentes no desenvolvimento de software é importante pois reduz o tempo de desenvolvimento e melhora a consistência e confiabilidade do software.
+
+03- Interfaces são pontos de interação entre componentes de software, enquanto contratos especificam suas responsabilidades. São importantes para definir expectativas claras e reduzir o acoplamento entre componentes.
+
+04- O modelo espiral é iterativo e enfatiza a análise de risco, enquanto o DBC se concentra na reutilização de componentes existentes.
+
+05- Engenharia de Software Orientado a Serviços (SOSE) é uma abordagem que prioriza a modularidade e interoperabilidade dos sistemas, diferindo da abordagem tradicional ao enfatizar serviços independentes.
+
+06- Gerenciamento de Qualidade em Engenharia de Software envolve garantir que o software atenda aos requisitos de qualidade. Técnicas incluem testes de software, inspeções de código e análise estática.
+
+07- Erro é um equívoco do desenvolvedor, bug é uma falha no código, defeito é uma imperfeição no código e falha é um problema visível durante a execução.
+
+08-  A documentação é importante para facilitar a manutenção do código, sendo comum incluir planos de projeto, especificações de requisitos e manuais do usuário.
+
+09 - O reuso de componentes reduz custos e prazos ao evitar retrabalho e acelerar o desenvolvimento com soluções pré-existentes.
+
+10 - O feedback contínuo durante o desenvolvimento de software é crucial para identificar problemas precocemente, melhorar a comunicação e permitir ajustes rápidos.
+
+
+Parte II: Questões Fechadas
+
+1- b) Reduzir o tempo de desenvolvimento.
+2 - c) Facilitar a manutenção do código.
+3- d) Testes Unitários.
+4 -c) Sistemas Orientados a Serviços Empresariais.
+5- c) Verificação, Validação, Teste.
+6- c) Uma imperfeição no código que pode causar um erro.
+7- b) Facilitar a manutenção do código.
+8- c) Aumento dos custos do projeto.
+9-b) Melhoria da comunicação entre equipe e cliente.
+10-b) Um bug é um defeito no código, enquanto uma falha é uma consequência visível desse defeito.
+11- c) Planos de Projeto, Especificações de Requisitos, Manuais do Usuário.
+12- b) Módulos de software pré-fabricados e independentes.
+13 - b) Redução do tempo de desenvolvimento.
+14- c) Funcionalidades independentes e autônomas do sistema.
+15- b) Garantir que o software atenda aos requisitos especificados.
+16- b) Análise de Risco.
+17- b) Pontos de conexão entre diferentes partes do sistema.
+18- b) Verificação refere-se a garantir que o software foi construído corretamente, enquanto Validação refere-se a garantir que o software atenda às necessidades do cliente.
+19- c) Um modelo de processo que combina elementos do modelo em cascata e prototipação, enfatizando a análise de risco em cada iteração.
